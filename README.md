@@ -5,6 +5,11 @@ In which I try to scrape Steven Universe background photos for my laptop. Becaus
 - managed to figure out how to scrape the first viewable images at [this link](http://imgur.com/a/risg9).
 - the issue was that the page lazy loads so not all the images are loaded when the page is being scraped
 - tried scraping [this](http://imgur.com/a/risg9?grid) summary grid page, but had the same problem.
+- found [an example](https://github.com/Rapptz/Reddit-Imgur-Scraper/blob/master/imguralbum.py) but it also has the same problem.
+
+## To do
+- Gotta figure out how to scrape this lazy-load page
+- https://blog.scrapinghub.com/2016/06/22/scrapy-tips-from-the-pros-june-2016/
 
 ## What I've learned so far
 - BeautifulSoup
