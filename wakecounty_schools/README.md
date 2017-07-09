@@ -18,10 +18,13 @@ StreetNumber:4000
 StreetZipCode:27519`
 
 ## To do
-- Figure out how to imitate a POST request to return the page
 - Scrape what I want from the page:
   - Base Elementary, Middle, High School
-  - If the school has an enrollment cap. I can get the actual enrollment cap from [public data](http://data-wake.opendata.arcgis.com/datasets/wake-county-public-schools).  
+  - If the school has an enrollment cap. I can get the actual enrollment cap from [public data](http://data-wake.opendata.arcgis.com/datasets/wake-county-public-schools).
+- Build a system for inputting different addresses
+  - system must get the first 3 chars of the addresses
+  - system must validate the address
+    - could use a Google Maps geocoding wrapper like [this one](https://github.com/googlemaps/google-maps-services-python)
 
 ## What I've learned so far
 
