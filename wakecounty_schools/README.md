@@ -19,7 +19,6 @@ StreetZipCode:27519`
 
 ## To do
 - Scrape what I want from the page:
-  - Base Elementary, Middle, High School
   - If the school has an enrollment cap. I can get the actual enrollment cap from [public data](http://data-wake.opendata.arcgis.com/datasets/wake-county-public-schools).
 - Build a system for inputting different addresses
   - system must get the first 3 chars of the addresses
