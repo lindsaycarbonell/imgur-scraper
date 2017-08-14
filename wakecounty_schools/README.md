@@ -1,5 +1,5 @@
 # Wake County School Assignment Scraper
-Making a scraper to look up addresses to get school assignments for a graphic I'm building. (Repo for the graphic project will be posted soon)
+Making a scraper to look up addresses to get school assignments for a graphic I'd like to build about distances between addresses and schools that are capped (there are 15 of them in WCPSS right now) and the school a student would have to attend if they couldn't fit into the closest one to their house.
 
 ## Progress
 - Determined the POST for the site. Example using an address in Cary for Panther Creek High:
